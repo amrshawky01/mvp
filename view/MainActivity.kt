@@ -7,8 +7,8 @@ import android.widget.TextView
 import model.Person
 import presenter.CalculateAgePresenter
 import presenter.ICalculateAgePresenter
-
 class MainActivity : AppCompatActivity(), CalculateAgePresenter.View {
+//amr mohamed shawky ashour g2
 
     lateinit var calculateAgePresenter: ICalculateAgePresenter
 
